@@ -23,7 +23,7 @@ npm run dev
 Open [http://localhost:3000](http://localhost:8080) and take a look around.
 
 
-### Task 3 Features
+### Task 2 Features
 
 - User registration using unique username and a password
 - support for users to login/logout.
